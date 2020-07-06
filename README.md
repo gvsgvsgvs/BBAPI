@@ -1,1 +1,1 @@
-# BBAPI
+Methods for connecting to Api exchanges
